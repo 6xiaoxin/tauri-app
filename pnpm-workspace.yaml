@@ -1,0 +1,5 @@
+allowBuilds:
+  '@parcel/watcher': true
+minimumReleaseAgeExclude:
+  - axios@1.19.0
+  - vite@8.2.0
